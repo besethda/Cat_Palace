@@ -16,3 +16,14 @@ body {
   text-align: center;
   font-size: 2.6rem;
 }
+
+.section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content {
+  font-size: 1.4rem;
+  color: rgb(1, 1, 39);
+  padding: 35px;
+}
